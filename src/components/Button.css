@@ -1,0 +1,19 @@
+.Button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px 24px;
+
+    position: absolute;
+    width: 155px;
+    height: 37px;
+    left: 1083px;
+    top: 406px;
+
+    background: #0085FF;
+    border-radius: 8px;
+    
+}
+Button:disabled{
+    background: #C7C7C7;
+}

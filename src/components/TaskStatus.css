@@ -1,0 +1,18 @@
+.TaskStatus{
+    position: absolute;
+    width: 98px;
+    height: 24px;
+    left: 690px;
+    top: 397px;
+    
+    background: #FC9700;
+    border-radius: 8px;
+}
+
+.TaskStatusCompleted{
+    width: 124px;
+    height: 24px;
+    background:green;
+    border-radius: 8px;
+    text-align:center;
+}

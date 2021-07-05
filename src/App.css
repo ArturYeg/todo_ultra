@@ -1,38 +1,86 @@
-.App {
-  text-align: center;
+p{
+  position: absolute;
+  width: 249px;
+  height: 23px;
+  left: 664px;
+  top: 317px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #0085FF;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+TaskStatus{
+  position: absolute;
+width: 50px;
+height: 16px;
+left: 722px;
+top: 401px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+Button{
+  position: static;
+width: 107px;
+height: 21px;
+left: 24px;
+top: 8px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+Input{
+  position: absolute;
+  width: 205px;
+  height: 21px;
+  left: 683px;
+  top: 242px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+
 }
 
-.App-link {
-  color: #61dafb;
-}
+ListItem {
+  position: absolute;
+width: 244px;
+height: 21px;
+left: 690px;
+top: 431px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #020202;
 }
