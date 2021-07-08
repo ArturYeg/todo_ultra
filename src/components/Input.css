@@ -5,9 +5,11 @@
     right: 17.71%;
     top: 22.36%;
     bottom: 72.95%;
-
-    background: #FFFFFF;
+    border: 1px solid black;
+    background: #a77c7c;
     border-radius: 8px;
+    
+    
 
         
 }
